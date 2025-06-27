@@ -1,0 +1,13 @@
+#imgCapybara {
+  border-radius: 50%;
+}
+
+#cardDiv {
+  background-color: beige;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px 20px;
+  width: 30%;
+  border-radius: 10px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
+}
